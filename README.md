@@ -1,2 +1,2 @@
-# My Lettcode Challenge Attempt
+# My Lettcode Challenge Solutions
 
