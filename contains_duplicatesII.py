@@ -4,4 +4,5 @@ class Solution:
         remove_dup = set(nums)
         if len(remove_dup) == len(nums):
             return False
-            return True
+        # The return
+        return True
