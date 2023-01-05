@@ -13,7 +13,7 @@
 | 26      |  [Remove Duplicates from Sorted Array]()                             |  Easy      | 
 | 27      |  [Remove Element]()                                                  |  Easy      | 
 | 35      |  [Search Insert Position]()                                          |  Easy      | 
-| 58      |  [Length of Last Word]()                                             |  Easy      | 
+| 58      |  [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)                                             |  Easy      | 
 |         |                                                                      |  Easy      | 
 
 
