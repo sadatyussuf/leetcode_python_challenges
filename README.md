@@ -15,6 +15,7 @@
 | 35      |  [Search Insert Position]()                                          |  Easy      | 
 | 58      |  [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)                                             |  Easy      | 
 | 66      |  [Plus](https://leetcode.com/problems/plus-one/description/)                                                                       |  Easy      | 
+| 67     |  [Add Binary](https://leetcode.com/problems/add-binary/description/)                                                                       |  Easy      | 
 
 
 
