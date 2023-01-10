@@ -17,6 +17,7 @@
 | 66      |  [Plus](https://leetcode.com/problems/plus-one/)                                                                       |  Easy      | 
 | 67     |  [Add Binary](https://leetcode.com/problems/add-binary/)                                                                       |  Easy      | 
 | 69     |  [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                       |  Easy      | 
+| 70   |  [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                       |  Easy      | 
 
 
 
