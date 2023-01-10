@@ -22,10 +22,8 @@ class Solution:
             
         while decimal_total > 0:
             if decimal_total % 2  == 0:
-                # binary_str += '0'
                 binary_str = '0' + binary_str
             else:
-                # binary_str += '1'
                 binary_str = '1' + binary_str
             print(decimal_total,decimal_total % 2)
             decimal_total = decimal_total // 2
