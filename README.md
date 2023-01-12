@@ -19,6 +19,7 @@
 | 69     |  [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                       |  Easy      | 
 | 70   |  [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                       |  Easy      | 
 | 83   |  [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                                                       |  Easy      | 
+| 88   |  [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                       |  Easy      | 
 
  
 
