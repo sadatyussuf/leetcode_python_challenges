@@ -20,6 +20,7 @@
 | 70   |  [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                       |  Easy      | 
 | 83   |  [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                                                       |  Easy      | 
 | 88   |  [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                       |  Easy      | 
+| 94   |  [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)                                                                       |  Easy      | 
 
  
 
