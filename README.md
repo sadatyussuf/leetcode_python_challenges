@@ -22,6 +22,7 @@
 | 88   |  [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                       |  Easy      | 
 | 94   |  [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)                                                                       |  Easy      | 
 | 100  |  [Same Tree](https://leetcode.com/problems/same-tree/description/)                                                                       |  Easy      | 
+| 101 |  [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)                                                                       |  Easy      | 
 
  
 
