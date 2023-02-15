@@ -23,6 +23,7 @@
 | 94   |  [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)                                                                       |  Easy      | 
 | 100  |  [Same Tree](https://leetcode.com/problems/same-tree/description/)                                                                       |  Easy      | 
 | 101 |  [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)                                                                       |  Easy      | 
+| 104 |  [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)                                                                       |  Easy      | 
 
  
 
