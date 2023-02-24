@@ -25,6 +25,7 @@
 | 101 |  [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)                                                                       |  Easy      | 
 | 104 |  [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)                                                                       |  Easy      | 
 | 108 |  [ Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/ convert-sorted-array-to-binary-search-tree/description/)                                                                       |  Easy      | 
+| 110 |  [  Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)                                                                       |  Easy      | 
 
  
-
+ 
