@@ -29,4 +29,4 @@
 | 111 |  [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)                                                                       |  Easy      | 
 
  
- minimum_depth_of_binary_tree
+ 
