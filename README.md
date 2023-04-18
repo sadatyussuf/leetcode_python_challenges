@@ -27,7 +27,7 @@
 | 108 |  [ Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)                                                                       |  Easy      | 
 | 110 |  [  Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)                                                                       |  Easy      | 
 | 111 |  [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)                                                                       |  Easy      | 
-| 112 |  [Path Sum](https://leetcode.com/problems/path-sum/description/)                                                                       |  Easy      | 
+| 118 |  [Pascal's Triangle](https://leetcode.com/problems/pascal-triangle/description/)                                                                       |  Easy      | 
 
  
  
