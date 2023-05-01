@@ -30,6 +30,7 @@
 | 118 |  [Pascal's Triangle](https://leetcode.com/problems/pascal-triangle/description/)                                                                       |  Easy      | 
 | 119 |  [Pascal's Triangle II](https://leetcode.com/problems/pascal-triangle-ii/description/)                                                                       |  Easy      | 
 | 121 |  [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)                                                                       |  Easy      | 
+| 136 |  [ Single Number ](https://leetcode.com/problems/single-number/description/)                                                                       |  Easy      | 
 
  
  
