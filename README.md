@@ -34,6 +34,7 @@
 | 1768 |  [ Merge Strings Alternately ](https://leetcode.com/problems/merge-strings-alternately/description/)                                                                       |  Easy      | 
 | 1071 |  [ Greatest Common Divisor of Strings ](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)                                                                       |  Easy      | 
 | 1431 |  [ Kids With the Greatest Number of Candies ](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)                                                                       |  Easy      | 
+| 605 |  [ Can Place Flowers ](https://leetcode.com/problems/can-place-flowers/description/)                                                                       |  Easy      | 
 
  
   
