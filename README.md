@@ -35,6 +35,7 @@
 | 1071 |  [ Greatest Common Divisor of Strings ](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/)                                                                       |  Easy      | 
 | 1431 |  [ Kids With the Greatest Number of Candies ](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)                                                                       |  Easy      | 
 | 605 |  [ Can Place Flowers ](https://leetcode.com/problems/can-place-flowers/description/)                                                                       |  Easy      | 
+| 345 |  [ Reverse Vowels of a String ](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)                                                                       |  Easy      | 
 
  
   
