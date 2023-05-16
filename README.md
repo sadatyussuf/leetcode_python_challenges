@@ -37,5 +37,11 @@
 | 605 |  [ Can Place Flowers ](https://leetcode.com/problems/can-place-flowers/description/)                                                                       |  Easy      | 
 | 345 |  [ Reverse Vowels of a String ](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)                                                                       |  Easy      | 
 
+
+## Medium Challenges
+
+| #       |               Title                                                  | Difficulty |
+| ------- | ------------------------------------------------------------------   | :-------   |
+| 151  |  [ Reverse Words in a String ](https://leetcode.com/problems/reverse-words-in-a-string/)                                                         |  Medium      |
  
   
